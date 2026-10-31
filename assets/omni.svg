@@ -1,0 +1,9 @@
+<svg width="160" height="160" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Omni: a dark screen with two pixel eyes" shape-rendering="crispEdges">
+<rect x="0" y="0" width="20" height="20" fill="#050505"/>
+<rect x="2" y="4" width="16" height="12" fill="#232323"/>
+<rect x="3" y="5" width="14" height="10" fill="#0c0c0c"/>
+<rect x="2" y="4" width="1" height="1" fill="#050505"/><rect x="17" y="4" width="1" height="1" fill="#050505"/>
+<rect x="2" y="15" width="1" height="1" fill="#050505"/><rect x="17" y="15" width="1" height="1" fill="#050505"/>
+<rect x="5" y="7" width="3" height="3" fill="#ffffff"/>
+<rect x="12" y="7" width="3" height="3" fill="#ffffff"/>
+</svg>
