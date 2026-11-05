@@ -39,3 +39,9 @@ the face talks first
 ```
 
 <p align="center"><sub>made in Brazil · <a href="https://github.com/tinypeep">github.com/tinypeep</a></sub></p>
+
+
+<p align="center">
+  <sub>help tiny, independent software keep going. ♡</sub><br><br>
+  <a href="https://buymeacoffee.com/tinypeep"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy me a coffee" width="180"></a>
+</p>
